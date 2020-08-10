@@ -1,5 +1,6 @@
 ### Hi there！ ![Profile Views](https://komarev.com/ghpvc/?username=chongruo&color=blue)
 
+<h1 align="center">Hi there! &nbsp; <img src="https://komarev.com/ghpvc/?username=chongruo&color=blue" width="100px" alt="profile views" /> </h1>
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chongruo&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
