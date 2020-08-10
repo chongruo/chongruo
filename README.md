@@ -1,7 +1,10 @@
 ### Hi there！ ![Profile Views](https://komarev.com/ghpvc/?username=chongruo&color=blue)
 
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=chongruo&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/chongruo)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chongruo&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
+
+
 
 
 
@@ -30,5 +33,8 @@ Here are some ideas to get you started:
 [![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=chongruo&repo=pytorch-HED&theme=dark)](https://github.com/chongruo/pytorch-HED)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chongruo&hide=TeX&layout=compact)
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=chongruo&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/chongruo)
+
 
 -->
