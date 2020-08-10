@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! </h1>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/followers/chongruo?label=Follow" alt="github follow" />
+  <img src="https://img.shields.io/github/followers/chongruo?label=Followers" alt="github follow" />
   <img src="https://komarev.com/ghpvc/?username=chongruo&color=blue" width="109px" alt="profile views" /> 
 </p>
 
