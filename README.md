@@ -6,5 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=chongruo" width="129px" alt="profile views" /> 
 </p>
 
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chongruo&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
 
+<p align="center"> "It's easier to invent the future than to predict it." &nbsp;&nbsp;&nbsp; -- Alan Kay  </p>
