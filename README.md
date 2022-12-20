@@ -9,4 +9,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chongruo&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
 
-<! <p align="center"> "It's easier to invent the future than to predict it." &nbsp;&nbsp;&nbsp; -- Alan Kay  </p> >
+<!-- <p align="center"> "It's easier to invent the future than to predict it." &nbsp;&nbsp;&nbsp; -- Alan Kay  </p> -->
